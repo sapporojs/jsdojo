@@ -2,4 +2,4 @@
 
 see: https://github.com/tricknotes/jsdojo/wiki
 
-*ゲストと開催日が決まったら、このリポジトリは public にして sapporojs アカウントの下に移す予定です。*
+*ゲストと開催日が決まったら、このリポジトリは public にして @sapporojs の下に移す予定です。*
