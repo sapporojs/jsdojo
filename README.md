@@ -1,5 +1,7 @@
 # 札幌 JavaScript 道場
 
+issue: https://github.com/tricknotes/jsdojo/issues
+
 see: https://github.com/tricknotes/jsdojo/wiki
 
 *ゲストと開催日が決まったら、このリポジトリは public にして @sapporojs の下に移す予定です。*
