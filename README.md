@@ -1,5 +1,5 @@
 # JavaScript 道場
 
-issue: https://github.com/tricknotes/jsdojo/issues
+issue: https://github.com/sapporojs/jsdojo/issues
 
 参加登録はこちらから: http://connpass.com/event/1664
