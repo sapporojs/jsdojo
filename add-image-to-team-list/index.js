@@ -14,6 +14,10 @@ jsdom.env(
 
     $participantArea.find('.participant_list_article').each(function() {
       var src = $(this).find('img').attr('src');
+      if (src[0] === '/') {
+        src = 'http://connpass.com' + src;
+      }
+
       var username = $(this).find('.user').text();
       username = username.replace(/^[ \n]+|[ \n]+$/g, '');
 
