@@ -31,7 +31,7 @@ jsdom.env(
       var nameWithIcon = _.map(list, function(name) {
         var user = _.findWhere(resources, {name: name});
         if (user) {
-          return name + ' ' + '![](' + user.icon + ')';
+          return '![](' + user.icon + ') ' + name;
         } else {
           console.log('* skip - %s', name);
         }
