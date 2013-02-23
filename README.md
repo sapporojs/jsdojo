@@ -8,3 +8,11 @@
 
 ## Archives
 * イベントカレンダー + ログ: https://event.atmarkit.co.jp/events/856092f95145765c695c192f00e8c797
+
+## Efforts
+* https://github.com/imaz/oreore-timer
+* https://github.com/onjiro/jsdojo_b
+* https://github.com/sandinist/jsdojoD
+* https://github.com/tmaeda1981jp/book_allowance_jsdojo
+* https://github.com/niku/sapporo-js-dojo-2013-02-13-prototype
+* https://github.com/shuji/expenses-js
