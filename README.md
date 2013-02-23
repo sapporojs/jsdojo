@@ -16,3 +16,6 @@
 * https://github.com/tmaeda1981jp/book_allowance_jsdojo
 * https://github.com/niku/sapporo-js-dojo-2013-02-13-prototype
 * https://github.com/shuji/expenses-js
+
+## Presentaions
+* http://hokaccha.github.com/slides/javascript_design_and_test
