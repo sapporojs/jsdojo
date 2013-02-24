@@ -8,6 +8,7 @@
 
 ## Archives
 * イベントカレンダー + ログ: https://event.atmarkit.co.jp/events/856092f95145765c695c192f00e8c797
+* Togetter: http://togetter.com/li/460869
 
 ## Efforts
 * https://github.com/imaz/oreore-timer
