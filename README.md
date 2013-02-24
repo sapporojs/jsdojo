@@ -15,6 +15,7 @@
 * https://github.com/onjiro/jsdojo_b
 * https://github.com/sandinist/jsdojoD
 * https://github.com/tmaeda1981jp/book_allowance_jsdojo
+* https://github.com/nomadmonad/JsDojo-Pomodolo
 * https://github.com/niku/sapporo-js-dojo-2013-02-13-prototype
 * https://github.com/shuji/expenses-js
 
