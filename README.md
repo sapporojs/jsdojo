@@ -21,3 +21,4 @@
 
 ## Presentaions
 * http://hokaccha.github.com/slides/javascript_design_and_test
+* https://github.com/badatmath/jsdojo
